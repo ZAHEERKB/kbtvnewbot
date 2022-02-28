@@ -1,7 +1,7 @@
 {
-    "name": "queen_amdi",
+    "name": "KB TV WATTSAPP BOT",
     "version": "3.6.2v",
-    "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "description": "KB TV WATTSAPP BOT project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "./QueenAmdi/assets/module.js",
     "scripts": {
       "start": "supervisor -s assets/module.js"
@@ -13,8 +13,8 @@
     "keywords": [
       "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "KB TV WATTSAPP BOT",
+    "developer": "KB TV WATTSAPP BOT",
     "license": "GPL-3.0-or-later",
     "bugs": {
       "url": "https://github.com/BlackAmda/QueenAmdi/issues"
